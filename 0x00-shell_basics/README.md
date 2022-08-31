@@ -15,3 +15,4 @@ A script to create a symbolink link
 A script showing special copy function
 Script to move a selected group of files
 Script to delete ~ files
+Script to create multiple directories
