@@ -10,3 +10,4 @@ Script to delete a file
 Script to delete my first directory
 Script to change to previous directory
 Script to list contents of directory
+Script to show type of file
