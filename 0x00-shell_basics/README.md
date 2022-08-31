@@ -3,3 +3,4 @@ A script displaying the contents lists of my current directory
 A script to change my working directory to home directory
 A script displaying current directory contents in a long format
 A script displaying all the files both the hidden ones
+A script displaying more info about my current directory
