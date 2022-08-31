@@ -11,3 +11,4 @@ Script to delete my first directory
 Script to change to previous directory
 Script to list contents of directory
 Script to show type of file
+A script to create a symbolink link
