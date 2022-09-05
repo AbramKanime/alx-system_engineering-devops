@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-Learning Engineering devops
+This project covers tasks on Shell, I/O Redirections and Filters
