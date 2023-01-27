@@ -1,1 +1,1 @@
-This project covers tasks on Shell, I/O Redirections and Filters
+This Directory contains tasks on Processes and Signals
