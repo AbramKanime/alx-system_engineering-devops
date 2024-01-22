@@ -1,10 +1,14 @@
+![](https://t3.ftcdn.net/jpg/04/92/09/72/240_F_492097246_yagE8x9Uk8M9IekPy7GBuE0x1Uoa7esD.jpg)
 ##Issue Summary:
+![](https://www.cienotes.com/wp-content/uploads/2019/07/summaryblackboard.jpg)
 On January 20, 2024, between 11:00 AM to 1:00 PM WAT, users experienced a service outage on our e-commerce platform. During this time, the platform was completely down, preventing users from accessing the website, browsing products, or making purchases. Approximately 75% of our users were affected by this outage.
 
 ## Root Cause:
+![](https://blog.systemsengineering.com/hs-fs/hubfs/blog-files/Root%20Cause.jpg?width=600&name=Root%20Cause.jpg)
 The root cause of the outage was identified as a critical failure in the load balancer. This failure caused a high volume of traffic to be redirected to a single server, overloading it and causing it to crash. The load balancer failed to recognize this issue and continued to direct traffic to the overloaded server.
 
 ## Timeline:
+![](https://www.ncbar.org/wp-content/uploads/2022/02/Timeline-Visual-300x145.png)
 - 11:00 AM WAT: The outage was first detected through monitoring alerts.
 - 11:05 AM WAT: The engineering team was notified of the issue and began investigating.
 - 11:10 AM WAT: The team identified the load balancer as a possible root cause and began investigating.
