@@ -1,5 +1,5 @@
 ![](https://t3.ftcdn.net/jpg/04/92/09/72/240_F_492097246_yagE8x9Uk8M9IekPy7GBuE0x1Uoa7esD.jpg)
-##Issue Summary:
+## Issue Summary:
 ![](https://www.cienotes.com/wp-content/uploads/2019/07/summaryblackboard.jpg)
 On January 20, 2024, between 11:00 AM to 1:00 PM WAT, users experienced a service outage on our e-commerce platform. During this time, the platform was completely down, preventing users from accessing the website, browsing products, or making purchases. Approximately 75% of our users were affected by this outage.
 
